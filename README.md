@@ -14,7 +14,7 @@ My name is Igor. I am a game developer and designer.
 ## <div align="center">❄️My Achievements❄️:</div>
 <div align="center">
   <a href="https://skillshop.credential.net/3b94d4ed-7cab-4105-926e-6380f5516373">
-    <img src="./al.png" alt="al" width="80" height="80" style="margin-top: 10px; margin-bottom: 10px;" />
+    <img src="./al.png" alt="al" width="50" height="50" style="margin-top: 10px; margin-bottom: 10px;" />
   </a>
 </div>
 
