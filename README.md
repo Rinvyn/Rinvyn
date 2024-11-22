@@ -3,8 +3,7 @@
 </div>
 
 # Hi there 👋  
-# ❄️ Welcome to My GitHub Profile! ❄️  
-My name is Igor. I am a game developer and designer.  
+# ❄️ Welcome to My GitHub Profile! ❄️   
 
 <div align="center">
   <img src="./smoke.gif" alt="smoke" />
