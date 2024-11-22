@@ -1,6 +1,7 @@
 # Hi there 👋
 # 🌟 Welcome to My GitHub Profile! 🌟
 My name is Igor. I am a game developer and designer
-![Описание GIF](https://github.com/Rinvyn/Rinvyn/edit/main/smoke.gif)
+<div align="center">
+  <img  src="./smike.gif"
 My Skills:
 [![My Skills](https://skillicons.dev/icons?i=arch,blender,discord,godot,guthub&perline=5)](https://skillicons.dev)
