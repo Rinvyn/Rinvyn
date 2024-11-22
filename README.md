@@ -14,6 +14,8 @@ My name is Igor. I am a game developer and designer.
 </div>
 
 ## <div align="center">Connect with me:</div>
-<a href="https://www.linkedin.com/in/igor-tursinbaev">
-  <img src="./in.png" alt="LinkedIn" width="80" height="80" style="margin-top: 10px; margin-bottom: 10px;" />
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/igor-tursinbaev">
+    <img src="./in.png" alt="LinkedIn" width="80" height="80" style="margin-top: 10px; margin-bottom: 10px;" />
+  </a>
+</div>
