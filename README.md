@@ -6,4 +6,5 @@ My name is Igor. I am a game developer and designer
        alt="snake" /></a>
 </div>
 My Skills:
-![My Skills](https://skillicons.dev/icons?i=arch,blender,discord,godot,guthub&perline=5)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=arch,blender,discord,godot,guthub&perline=5)](https://skillicons.dev)
