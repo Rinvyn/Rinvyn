@@ -6,7 +6,7 @@ My name is Igor. I am a game developer and designer.
   <img src="./smoke.gif" alt="smoke" />
 </div>
 
-## My Skills:  
+##                                                                                                                        My Skills:  
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,blender,discord,godot,github,linkedin,lua&perline=10" alt="My Skills" />
