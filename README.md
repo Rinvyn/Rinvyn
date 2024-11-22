@@ -31,7 +31,7 @@ My name is Igor. I am a game developer and designer.
     <img src="./in.png" alt="LinkedIn" width="80" height="80" />
   </a>
   <a href="https://t.me/rinvyn_27">
-    <img src="./tg.png" alt="tg" width="70" height="70" />
+    <img src="./tg.png" alt="tg" width="80" height="80" />
   </a>
 </div>
 
