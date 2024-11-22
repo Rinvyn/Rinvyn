@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./line.gif" alt="line" width="100%" height="5px" />
+  <img src="./line.gif" alt="line" width="100%" height="3px" />
 </div>
 
 # Hi there 👋  
@@ -25,5 +25,5 @@ My name is Igor. I am a game developer and designer.
 </div>
 
 <div align="center">
-  <img src="./line.gif" alt="line" width="100%" height="10px" />
+  <img src="./line.gif" alt="line" width="100%" height="3px" />
 </div>
