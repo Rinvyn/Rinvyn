@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./line.gif" alt="line" width="100%" height="10px" />
+  <img src="./line.gif" alt="line" width="100%" height="5px" />
 </div>
 
 # Hi there 👋  
