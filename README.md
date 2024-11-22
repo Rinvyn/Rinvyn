@@ -26,9 +26,12 @@ My name is Igor. I am a game developer and designer.
 </div>
 
 ## <div align="center">❄️Connect with me❄️:</div>
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/igor-tursinbaev">
-    <img src="./in.png" alt="LinkedIn" width="80" height="80" style="margin-top: 10px; margin-bottom: 10px;" />
+    <img src="./in.png" alt="LinkedIn" width="80" height="80" />
+  </a>
+  <a href="https://t.me/rinvyn_27">
+    <img src="./tg.png" alt="tg" width="80" height="80" />
   </a>
 </div>
 
