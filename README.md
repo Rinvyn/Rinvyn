@@ -23,3 +23,7 @@ My name is Igor. I am a game developer and designer.
     <img src="./in.png" alt="LinkedIn" width="80" height="80" style="margin-top: 10px; margin-bottom: 10px;" />
   </a>
 </div>
+
+<div align="center">
+  <img src="./line.gif" alt="line" width="100%" height="10px" />
+</div>
