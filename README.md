@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./line.gif" alt="line" />
+</div>
+
 # Hi there 👋  
 # ❇ Welcome to My GitHub Profile! ❇  
 My name is Igor. I am a game developer and designer.  
