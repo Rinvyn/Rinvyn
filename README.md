@@ -12,3 +12,7 @@ My name is Igor. I am a game developer and designer.
     <img src="https://skillicons.dev/icons?i=arch,blender,discord,godot,github&perline=5" alt="My Skills" />
   </a>
 </div>
+
+## Connect with me:
+[![LinkedIn](./in.png)](https://www.linkedin.com/in/igor-tursinbaev)
+
